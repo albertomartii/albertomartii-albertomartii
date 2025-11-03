@@ -3,6 +3,7 @@
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=albertomartii&show_icons=true&theme=transparent">
+   <gif width="auto"height="196" alt="image" src="https://github.com/user-attachments/assets/01faa04c-d53b-4737-ad6f-08be30aca824"/>
 </div>
 <div>
   <h1>Languages and Tools...</h1>
