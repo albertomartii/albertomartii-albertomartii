@@ -3,7 +3,7 @@
 </div>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=albertomartii&show_icons=true&theme=transparent">
-   <gif width="auto"height="196" alt="image" src="https://github.com/user-attachments/assets/01faa04c-d53b-4737-ad6f-08be30aca824"/>
+   <img src="https://github.com/albertomartii/albertomartii-albertomartii/blob/main/jdm-animated-car-drifting-4j6uhi5iapkoio24.gif" width="auto"height="196" alt="gif" />
 </div>
 <div>
   <h1>Languages and Tools...</h1>
